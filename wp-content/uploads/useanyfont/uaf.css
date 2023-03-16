@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'esba';
+					src: url('https:///https://alantorresr.github.io/gpa.github.io/wp-content/uploads/useanyfont/8516Esba.woff2') format('woff2'),
+						url('https:///https://alantorresr.github.io/gpa.github.io/wp-content/uploads/useanyfont/8516Esba.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.esba{font-family: 'esba' !important;}
+
+		
