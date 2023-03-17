@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\GuzzleHttp\Psr7\MessageTrait&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\vendor\guzzlehttp\psr7\src\Response.php</b> on line <b>9</b><br>

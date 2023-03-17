@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\WordPress\Module\Admin\Page\FlashesMessages&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\src\Module\Admin\Page\PublishPage.php</b> on line <b>15</b><br>

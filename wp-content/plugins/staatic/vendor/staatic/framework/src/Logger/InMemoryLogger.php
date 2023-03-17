@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Framework\Logger\LoggerTrait&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\vendor\staatic\framework\src\Logger\InMemoryLogger.php</b> on line <b>8</b><br>

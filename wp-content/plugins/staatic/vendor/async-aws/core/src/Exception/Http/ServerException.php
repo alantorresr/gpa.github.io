@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\AsyncAws\Core\Exception\Http\HttpExceptionTrait&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\vendor\async-aws\core\src\Exception\Http\ServerException.php</b> on line <b>8</b><br>

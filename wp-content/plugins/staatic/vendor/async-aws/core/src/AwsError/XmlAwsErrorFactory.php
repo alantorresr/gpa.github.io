@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\AsyncAws\Core\AwsError\AwsErrorFactoryFromResponseTrait&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\vendor\async-aws\core\src\AwsError\XmlAwsErrorFactory.php</b> on line <b>10</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Symfony\Component\HttpClient\Exception\HttpExceptionTrait&quot; not found in <b>C:\xampp\htdocs\gpa-wip\wp-content\plugins\staatic\vendor\symfony\http-client\Exception\ServerException.php</b> on line <b>7</b><br>
